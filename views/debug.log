@@ -1,0 +1,144 @@
+15:36:55.490 ::ffff:127.0.0.1 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/a/video/#tvdebug
+15:37:14.520 ::ffff:127.0.0.1 event: 13
+15:37:14.531 ::ffff:127.0.0.1 tracking action - category: component action: activate name: text value: 
+15:37:14.537 ::ffff:127.0.0.1 tracking action - category: video action: play name: http://mpattest.irt.de/videos/test.mp4 value: 
+15:37:26.701 ::ffff:127.0.0.1 event: 13
+15:37:26.703 ::ffff:127.0.0.1 tracking action - category: video action: play name: http://mpattest.irt.de/videos/test.mp4 value: 
+15:37:31.006 ::ffff:127.0.0.1 event: 13
+15:37:31.008 ::ffff:127.0.0.1 tracking action - category: video action: play name: http://mpattest.irt.de/videos/test.mp4 value: 
+15:39:01.249 ::ffff:137.194.233.147 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/a/video/#tvdebug
+15:39:01.250 ::ffff:137.194.233.147 after HbbTV initialisation
+15:39:01.263 ::ffff:137.194.233.147 after HbbTV show
+15:39:06.185 ::ffff:137.194.233.147 event: 13
+15:39:06.186 ::ffff:137.194.233.147 tracking action - category: component action: activate name: text value: 
+15:39:06.188 ::ffff:137.194.233.147 tracking action - category: video action: play name: http://mpattest.irt.de/videos/test.mp4 value: 
+15:39:06.196 ::ffff:137.194.233.147 VideoState:: CONNECTING
+15:39:06.962 ::ffff:137.194.233.147 VideoState:: BUFFERING
+15:39:07.727 ::ffff:137.194.233.147 VideoState:: PLAYING
+15:39:13.268 ::ffff:137.194.233.147 event: 54
+15:41:11.162 ::ffff:137.194.233.147 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/stream/timeline/#tvdebug
+15:41:11.163 ::ffff:137.194.233.147 after HbbTV initialisation
+15:41:11.173 ::ffff:137.194.233.147 after HbbTV show
+15:41:12.818 ::ffff:137.194.233.147 TimeLineController constructor
+15:41:12.819 ::ffff:137.194.233.147 after HbbTV BC init
+15:41:12.820 ::ffff:137.194.233.147 stream 1
+15:41:12.821 ::ffff:137.194.233.147 vidObj [OIPF video/broadcast]
+15:41:12.822 ::ffff:137.194.233.147 TimeLineController html init done
+15:41:12.823 ::ffff:137.194.233.147 init streamevents
+15:41:12.900 ::ffff:137.194.233.147 stream 3
+15:41:12.903 ::ffff:137.194.233.147 stream 6
+15:41:12.904 ::ffff:137.194.233.147 stream 5
+15:41:12.907 ::ffff:137.194.233.147 time 0 20.25
+15:41:12.909 ::ffff:137.194.233.147 setPage [object Object]
+15:41:18.711 ::ffff:137.194.233.147 streamevent received: "1"
+15:41:18.713 ::ffff:137.194.233.147 setPage [object Object]
+15:41:26.031 ::ffff:137.194.233.147 event: 13
+15:41:26.032 ::ffff:137.194.233.147 tracking action - category: component action: activate name: text value: 
+15:41:27.523 ::ffff:137.194.233.147 event: 40
+15:41:28.451 ::ffff:137.194.233.147 event: 40
+15:41:28.973 ::ffff:137.194.233.147 streamevent received: "2"
+15:41:28.974 ::ffff:137.194.233.147 event: 40
+15:41:28.979 ::ffff:137.194.233.147 unknown streamEvent 2
+15:41:29.468 ::ffff:137.194.233.147 event: 40
+15:41:30.065 ::ffff:137.194.233.147 event: 38
+15:41:30.458 ::ffff:137.194.233.147 event: 38
+15:41:30.946 ::ffff:137.194.233.147 event: 38
+15:41:32.085 ::ffff:137.194.233.147 event: 13
+15:41:32.087 ::ffff:137.194.233.147 tracking action - category: component action: activate name: text value: 
+15:41:33.134 ::ffff:137.194.233.147 setPage null
+15:41:38.904 ::ffff:137.194.233.147 streamevent received: "3"
+15:41:38.909 ::ffff:137.194.233.147 setPage [object Object]
+10:26:08.050 ::ffff:137.194.232.184 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:26:08.064 ::ffff:137.194.232.184 after HbbTV initialisation
+10:26:08.162 ::ffff:137.194.232.184 after HbbTV show
+10:26:10.023 ::ffff:137.194.232.184 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:26:10.025 ::ffff:137.194.232.184 after HbbTV initialisation
+10:26:10.145 ::ffff:137.194.232.184 after HbbTV show
+10:26:11.334 ::ffff:137.194.232.184 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:26:11.335 ::ffff:137.194.232.184 after HbbTV initialisation
+10:26:11.456 ::ffff:137.194.232.184 after HbbTV show
+10:29:32.633 ::ffff:127.0.0.1 event: 40
+10:29:32.999 ::ffff:127.0.0.1 event: 40
+10:29:34.360 ::ffff:127.0.0.1 event: 38
+10:29:34.557 ::ffff:127.0.0.1 event: 38
+10:29:34.960 ::ffff:127.0.0.1 event: 39
+10:29:38.003 ::ffff:127.0.0.1 event: 13
+10:29:38.006 ::ffff:127.0.0.1 tracking action - category: component action: activate name: text value: 
+10:29:38.016 ::ffff:127.0.0.1 tracking action - category: video action: play name: http://mpattest.irt.de/videos/test.mp4 value: 
+10:29:38.144 ::ffff:127.0.0.1 VideoState:: CONNECTING
+10:29:38.166 ::ffff:127.0.0.1 VideoState:: PLAYING
+10:29:39.941 ::ffff:127.0.0.1 event: 13
+10:29:39.953 ::ffff:127.0.0.1 tracking action - category: video action: pause name: http://mpattest.irt.de/videos/test.mp4 value: 
+10:29:39.966 ::ffff:127.0.0.1 VideoState:: PAUSED
+10:30:09.215 ::ffff:127.0.0.1 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:30:09.217 ::ffff:127.0.0.1 after HbbTV initialisation
+10:30:09.258 ::ffff:127.0.0.1 after HbbTV show
+10:30:37.518 ::ffff:127.0.0.1 event: 13
+10:30:37.520 ::ffff:127.0.0.1 tracking action - category: component action: activate name: text value: 
+10:30:37.534 ::ffff:127.0.0.1 tracking action - category: video action: play name: http://mpattest.irt.de/videos/test.mp4 value: 
+10:30:37.640 ::ffff:127.0.0.1 VideoState:: CONNECTING
+10:30:38.504 ::ffff:127.0.0.1 VideoState:: PLAYING
+10:30:40.960 ::ffff:127.0.0.1 event: 13
+10:30:40.971 ::ffff:127.0.0.1 tracking action - category: video action: pause name: http://mpattest.irt.de/videos/test.mp4 value: 
+10:30:40.982 ::ffff:127.0.0.1 VideoState:: PAUSED
+10:30:41.745 ::ffff:127.0.0.1 event: 39
+10:30:41.747 ::ffff:127.0.0.1 turnRIGHT focused: 2
+10:30:42.257 ::ffff:127.0.0.1 event: 39
+10:30:42.260 ::ffff:127.0.0.1 turnRIGHT focused: 3
+10:30:42.617 ::ffff:127.0.0.1 event: 39
+10:30:42.619 ::ffff:127.0.0.1 turnRIGHT focused: 4
+10:30:43.148 ::ffff:127.0.0.1 event: 37
+10:30:43.151 ::ffff:127.0.0.1 turnLEFT focused: 1
+10:30:43.835 ::ffff:127.0.0.1 event: 40
+10:30:44.632 ::ffff:127.0.0.1 event: 38
+10:30:45.255 ::ffff:127.0.0.1 event: 40
+10:30:45.835 ::ffff:127.0.0.1 event: 40
+10:30:46.536 ::ffff:127.0.0.1 event: 38
+10:30:46.894 ::ffff:127.0.0.1 event: 39
+10:30:47.871 ::ffff:127.0.0.1 event: 13
+10:30:47.873 ::ffff:127.0.0.1 tracking action - category: component action: activate name: text value: 
+10:30:47.881 ::ffff:127.0.0.1 tracking action - category: video action: play name: http://mpattest.irt.de/videos/test.mp4 value: 
+10:30:47.960 ::ffff:127.0.0.1 VideoState:: CONNECTING
+10:30:47.978 ::ffff:127.0.0.1 VideoState:: PLAYING
+10:30:50.545 ::ffff:127.0.0.1 event: 13
+10:30:50.553 ::ffff:127.0.0.1 tracking action - category: video action: pause name: http://mpattest.irt.de/videos/test.mp4 value: 
+10:30:50.563 ::ffff:127.0.0.1 VideoState:: PAUSED
+10:32:04.613 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:32:04.614 ::ffff:137.194.232.198 after HbbTV initialisation
+10:32:04.624 ::ffff:137.194.232.198 after HbbTV show
+10:33:46.690 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:33:46.692 ::ffff:137.194.232.198 after HbbTV initialisation
+10:33:46.706 ::ffff:137.194.232.198 after HbbTV show
+10:36:57.247 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:36:57.250 ::ffff:137.194.232.198 after HbbTV initialisation
+10:36:57.290 ::ffff:137.194.232.198 after HbbTV show
+10:37:34.489 ::ffff:127.0.0.1 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:37:34.491 ::ffff:127.0.0.1 after HbbTV initialisation
+10:37:34.522 ::ffff:127.0.0.1 after HbbTV show
+10:37:38.046 ::ffff:127.0.0.1 event: 54
+10:39:51.034 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:39:51.039 ::ffff:137.194.232.198 after HbbTV initialisation
+10:39:51.051 ::ffff:137.194.232.198 after HbbTV show
+10:40:47.357 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:40:47.360 ::ffff:137.194.232.198 after HbbTV initialisation
+10:40:47.375 ::ffff:137.194.232.198 after HbbTV show
+10:41:05.830 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:41:05.832 ::ffff:137.194.232.198 after HbbTV initialisation
+10:41:05.877 ::ffff:137.194.232.198 after HbbTV show
+10:44:52.478 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/y/#tvdebug
+10:44:52.482 ::ffff:137.194.232.198 after HbbTV initialisation
+10:44:52.523 ::ffff:137.194.232.198 after HbbTV show
+10:45:12.172 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/y/#tvdebug
+10:45:12.180 ::ffff:137.194.232.198 after HbbTV initialisation
+10:45:12.196 ::ffff:137.194.232.198 after HbbTV show
+10:50:42.299 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:50:42.302 ::ffff:137.194.232.198 after HbbTV initialisation
+10:50:42.430 ::ffff:137.194.232.198 after HbbTV show
+10:54:28.874 ::ffff:137.194.232.198 >>>>>>>>>>>>>>>>>> loading http://ooook.enst.fr/wp/smallvideos/#tvdebug
+10:54:28.881 ::ffff:137.194.232.198 after HbbTV initialisation
+10:54:29.552 ::ffff:137.194.232.198 after HbbTV show
+10:54:41.172 ::ffff:137.194.232.198 event: 13
+10:54:41.173 ::ffff:137.194.232.198 tracking action - category: component action: activate name: text value: 
+10:54:41.263 ::ffff:137.194.232.198 tracking action - category: video action: play name: http://mpattest.irt.de/videos/test.mp4 value: 
+10:54:41.811 ::ffff:137.194.232.198 VideoState:: BUFFERING
+10:54:44.476 ::ffff:137.194.232.198 VideoState:: PLAYING

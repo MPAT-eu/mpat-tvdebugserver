@@ -1,0 +1,47 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>-->
+    <script type="text/javascript" src="javascripts/debug.js">
+    </script>
+</head>
+<body>
+<div style="margin: 30px;">
+    <img src="images/MPAT_logo.png" align="RIGHT"/>
+    <h1 style="text-align: center;"> TV Debug Zone </h1>
+    <p>Message zone: (latest first)</p>
+    <div style="margin: 10px;">
+        <textarea id="textarea" style="width: 100%; height:400px;"></textarea>
+    </div>
+    <p style="margin-top: 30px;">Text field (ip or message):</p>
+    <div style="margin: 10px;">
+        <input type="text" class="form-control" id="input"/>
+    </div>
+    <p style="margin-top: 30px;">Actions:</p>
+    <div style="margin: 10px;">
+        <button type="button" class="btn btn-lg btn-default" onclick="getalllogs()">Get all logs</button>
+        <button type="button" class="btn btn-lg btn-primary" onclick="getlogs()">Get logs from single TV</button>
+        <button type="button" class="btn btn-lg btn-info" onclick="continuousgetlogs()">Get logs from single TV continuously</button>
+        <button type="button" class="btn btn-lg btn-info" onclick="stop()">Stop getting logs</button>
+        <button type="button" class="btn btn-lg btn-primary" onclick="log()">Send log message</button>
+        <button type="button" class="btn btn-lg btn-warning" onclick="clearlogs()">Clear logs</button>
+        <button type="button" class="btn btn-lg btn-warning" onclick="dumpdata()">Dump data</button>
+        <button type="button" class="btn btn-lg btn-warning" onclick="cleanup()">Clean up</button>
+        <button type="button" class="btn btn-lg btn-warning" onclick="reset()">Reset</button>
+    </div>
+</div>
+</body>
+</html>
