@@ -4,6 +4,27 @@
 
 This document describes the TV debug environment created by ParisTech. The goal is to be able to have logging in the TV frontend code and flexible reading of the logs from the web. 
 
+## Installation
+In the current directory, do:
+```
+npm install
+```
+
+## Usage
+### Server
+Run the server on the same machine as your MPAT server
+```
+node app.js
+```
+
+### Debug application
+In your web browser, browse to 
+```
+http://localhost:3000/debugApp.html
+```
+
+
+
 ## Architecture
 The environment consists in:
 - A node.js server that responds to logging requests from TV and information 
