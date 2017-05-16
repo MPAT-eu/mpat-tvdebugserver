@@ -17,6 +17,8 @@ Run the server on the same machine as your MPAT server
 node app.js
 ```
 
+### TV
+To enable debugging on the TV, append `#tvdebug` to the HbbTV url.
 ### Debug application
 In your web browser, browse to 
 ```
